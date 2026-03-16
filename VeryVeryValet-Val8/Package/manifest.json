@@ -1,0 +1,8 @@
+{
+    "name": "Val8",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/xMcacutt/VeryVeryValet-Val8",
+    "description": "8 player story mode support for Very Very Valet",
+    "dependencies": [
+    ]
+}
